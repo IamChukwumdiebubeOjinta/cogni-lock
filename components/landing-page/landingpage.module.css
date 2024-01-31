@@ -1,0 +1,10 @@
+.hero{
+    display: flex;
+    background: url(../../public/hero-image.png) center/cover;
+}
+
+.features {
+    width: 50%;
+    height: inherit;
+    background: url(../../public/features-eye.png) center/cover;
+}
